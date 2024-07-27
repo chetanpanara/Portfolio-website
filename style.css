@@ -33,11 +33,11 @@ body {
 .home
 {
 background-color:white;
+padding: 3%;
 }
 .text1
 {
     color: black;
-    font-size: 60px;
     font-weight: 500;
     margin-top: 18%;
 }
