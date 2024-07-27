@@ -1,0 +1,109 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    line-height: 1.7;
+    font-family: Calibri;
+    font-size: 1.1rem;
+    background-color:white;
+}
+
+.navbar {
+    background-color:white;
+    padding: 10px;
+}
+
+.navbar-nav .nav-link {
+    font-size: 15px;
+    font-family: Bahnschrift;
+    margin: 0px 8px;
+    color: rgb(43, 43, 43);
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav  {
+    color: #0088ff;
+    transition: 0.4s ease;
+}
+
+
+.home
+{
+background-color:white;
+padding: 3%;
+}
+.text1
+{
+    color: black;
+    font-size: 60px;
+    font-weight: 500;
+    margin-top: 18%;
+}
+
+
+.skills
+{
+    padding: 3%;
+}
+.titlename {
+    color: #001733;
+    text-align: center;
+    font-size: 2.65rem;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+
+.skills-title
+{
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.skill-box
+{
+    height: 100px;
+    width: 100px;
+    background-color: #fefefe;
+    padding: 10px;
+    border-radius: 10px;
+     box-shadow: 4px 3px 15px rgba(48, 48, 48, 0.2);
+    margin-bottom: 14px;
+}
+.skills-box
+{
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 3px 15px rgba(48, 48, 48, 0.2);
+    margin-bottom: 14px;
+    margin-top: 20px;
+    padding: 14px;
+}
+.skills-image
+{
+    aspect-ratio: 3/3;
+}
+
+.project-text
+{
+    color: black;
+    font-size: 30px;
+    font-weight: 500;
+
+}
+.project
+{
+    padding: 3%;
+}
+
+.about-img
+{
+    width: 230px;
+    height: 230px;
+    
+}
