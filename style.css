@@ -33,7 +33,6 @@ body {
 .home
 {
 background-color:white;
-padding: 3%;
 }
 .text1
 {
@@ -46,7 +45,7 @@ padding: 3%;
 
 .skills
 {
-    padding: 3%;
+
 }
 .titlename {
     color: #001733;
@@ -98,7 +97,7 @@ padding: 3%;
 }
 .project
 {
-    padding: 3%;
+  
 }
 
 .about-img
